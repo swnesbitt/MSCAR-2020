@@ -4,6 +4,6 @@
 
 Schedule:
 
-Contact: Steve Nesbitt Twitter (https://twitter.com/70_dbz)[@70_dbz]
+Contact: Steve Nesbitt Twitter [https://twitter.com/70_dbz](@70_dbz)
 
  
