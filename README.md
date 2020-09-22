@@ -1,9 +1,9 @@
-# JupyterLab + Binder
+# MSCAR 2020 python tutorial
 
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/swnesbitt/MSCAR-2020/master?urlpath=lab/tree/index.ipynb)
 
-JupyterLab is packaged with Binder repositories by default. In order to
-run a JupyterLab session, you have two options:
+Schedule:
 
+Contact: Steve Nesbitt Twitter (https://twitter.com/70_dbz)[@70_dbz]
 
  
