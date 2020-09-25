@@ -13,7 +13,7 @@ Numpy for arrays and mathematics|11:05 - 11:25|20 mins
 Slicing and dicing data with xarray|11:25 - 11:45|20 mins
 **Break**|11:45 - 11:50|5 mins
 Mapping with cartopy|11:50 - 12:05|15 mins
-Metpy for all things weather|12:05 - 12:20|15 mins
+Machine learning in 15 minutes|12:05 - 12:20|15 mins
 Branching out from here|12:20 - 12:25|5 mins
 Discussion and questions|12:25 - 12:30|5 mins
 
