@@ -12,3 +12,10 @@ dependencies:
   - xarray
   - netcdf4
   - scikit-learn
+  - pip
+  - pip:
+    - nbgitpuller
+    - sphinx-gallery
+    - pandas
+    - matplotlib
+    - gdown
