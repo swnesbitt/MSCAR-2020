@@ -12,6 +12,7 @@ dependencies:
   - xarray
   - netcdf4
   - scikit-learn
+  - seaborn
   - pip
   - pip:
     - gdown
