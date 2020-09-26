@@ -1,6 +1,6 @@
 # MSCAR 2020 python tutorial
 
-Use this button to launch the tutorial in `binder`.
+Use this button to launch the tutorial in `binder`.  
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/swnesbitt/MSCAR-2020/master?urlpath=lab/tree/index.ipynb)
 
 ## Schedule:
